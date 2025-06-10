@@ -1,4 +1,4 @@
-## Desafio Técnico DKW System: Desenvolvedor Júnior
+## Desafio Técnico: Desenvolvedor Júnior
 
 ### Descrição do Desafio
 
@@ -28,17 +28,18 @@ Você deverá criar uma aplicação simples onde os usuários podem enviar mensa
      - ID da mensagem;
      - Conteúdo da mensagem;
      - Timestamp da interação.
-   - A integração com o banco de dados deve ser feita utilizando **Sequelize**.
+   - As tabelas e colunas do banco de dados devem ser criadas através de **Migrations** com **Sequelize**.
 
 ### Avaliação:
 - **Frontend**: Organização do código, uso do Material-UI 14 e a experiência do usuário.
 - **Backend**: Arquitetura da API, clareza e eficiência nas rotas, integração com o banco de dados usando Sequelize.
-- **Banco de Dados**: Simplicidade e organização das tabelas, uso do Sequelize.
+- **Banco de Dados**: Simplicidade e organização das tabelas, uso do Sequelize para criar as tabelas e colunas via migrations.
 
 ### O que Esperamos de Você:
 - Capacidade de estruturar e organizar seu código de forma clara e eficiente;
 - Conhecimento nas tecnologias especificadas (React.js, Node.js, Express, PostgreSQL, Sequelize);
-- Uso correto do Material-UI 14 no frontend.
+- Uso correto do Material-UI 14 no frontend;
+- Utilização de migrations com Sequelize para criação das tabelas e colunas do banco de dados.
 
 ### Como Enviar:
 - Fork o repositório e envie o link do seu repositório com a solução;
