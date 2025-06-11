@@ -8,6 +8,10 @@ Estamos em busca de um desenvolvedor júnior para integrar nossa equipe de tecno
 
 Você deverá criar uma aplicação simples onde os usuários podem enviar mensagens para um atendente, e o sistema deve responder com uma mensagem de confirmação. O sistema deve ser dividido em **Frontend** e **Backend**:
 
+### Regras
+
+Na DKW System nós apoiamos o uso de IA's no dia-dia para agilizar tarefas e tirar dúvidas. Diante disso, o uso de inteligência artificial para AUXÍLIO no desafio não é proibido, desde que o código escrito durante o desafio seja de entedimento total do candidato.
+
 #### Requisitos:
 
 1. **Frontend**:
