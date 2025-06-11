@@ -27,6 +27,7 @@ Você deverá criar uma aplicação simples onde os usuários podem enviar mensa
    - Criar um banco de dados simples em **PostgreSQL** para armazenar as mensagens enviadas pelos usuários, contendo:
      - ID da mensagem;
      - Conteúdo da mensagem;
+     - Proprietário da mensagem [User ou System]. (Para diferencias mensagens enviadas pelo usuário e pelo sistema);
      - Timestamp da interação.
    - As tabelas e colunas do banco de dados devem ser criadas através de **Migrations** com **Sequelize**.
 
