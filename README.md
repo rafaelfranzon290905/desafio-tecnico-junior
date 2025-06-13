@@ -15,16 +15,16 @@ npm install
 ```
 3. Use Sequelize para criar o banco de dados
 ```
--npx sequelize-cli db:migrate
+npx sequelize-cli db:migrate
 ```
 4. Inicie o servidor do Backend
-```bash
--node index.js
+```
+node index.js
 ```
 5. Em outro terminal, instale e inicie o Frontend
-```bash
--cd ..
--cd frontend
--npm install
--npm start
+```
+cd ..
+cd frontend
+npm install
+npm start
 ```
