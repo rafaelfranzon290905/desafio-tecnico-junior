@@ -1,11 +1,11 @@
-##Pré-requisitos
+## Pré-requisitos
 
 Antes de rodar o projeto, instale: 
 - [Node.js](https://www.nodejs.tech/pt-br/download)
 - [PostgreSQL](https://www.postgresql.org/download/)
 - [Git](https://git-scm.com/downloads)
 
-##Como rodar:
+## Como rodar:
 
 1. Clone esse repositório: https://github.com/rafaelfranzon290905/desafio-tecnico-junior.git
 2. Entre na pasta backend e instale as dependências
