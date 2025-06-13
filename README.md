@@ -9,14 +9,14 @@ Antes de rodar o projeto, instale:
 
 1. Clone esse repositório https://github.com/rafaelfranzon290905/desafio-tecnico-junior.git
 2. Entre na pasta backend e intale as dependencias
-cd backend
-npm install
+-cd backend
+-npm install
 3. Use Sequelize para criar o banco de dados 
-npx sequelize-cli db:migrate
+-npx sequelize-cli db:migrate
 4. Inicie o servidor do Backend
-node index.js
+-node index.js
 5. Em outro terminal, instale e inicie o Frontend
-cd ..
-cd frontend
-npm install
-npm start
+-cd ..
+-cd frontend
+-npm install
+-npm start
